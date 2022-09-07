@@ -8,3 +8,5 @@ This repository contains an analysis of Seattle Airbnb Data to answer 3 main que
  
 The Data set is gotten from kaggle https://www.kaggle.com/datasets/airbnb/seattle  
 It contains 3 csv files of CALENDAR, LISTINGS, REVIEWS
+
+`OmoyeniO`, `Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-`, `yenidipe`, `Omoyeni Ogundipe`, `email_client`, `yenidipe@icloud.com`, `Analysin Seattle Airbnb Data`, `Udacity Data Science Project`
