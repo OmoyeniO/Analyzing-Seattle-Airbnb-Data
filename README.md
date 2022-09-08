@@ -122,7 +122,7 @@ Also, we weren't able to establish a correlation between Price and cancelation p
 
 ## Blog
 
-READ MORE ON: [WHAT DATA TELLS YOU ABOUT AIRBNB BUSINESS IN SEATTLE] (https://omoyeni-ogundipe.medium.com/what-data-tells-you-about-airbnb-business-in-seattle-5c403ebb9d15)
+READ MORE ON: [WHAT DATA TELLS YOU ABOUT AIRBNB BUSINESS IN SEATTLE](https://omoyeni-ogundipe.medium.com/what-data-tells-you-about-airbnb-business-in-seattle-5c403ebb9d15)
 
 
 <!-- CONTRIBUTING -->
