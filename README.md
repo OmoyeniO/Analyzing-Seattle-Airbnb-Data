@@ -45,7 +45,32 @@ Install and Import the necessary libraries
   ```sh
   pip install pandas
   ```
-
+* Scikit-learn
+  ```sh
+  pip install -U scikit-learn
+  ```
+* Matplotlib
+  ```sh
+  python -m pip install -U matplotlib
+  ```
+* Seaborn
+  ```sh
+  pip install seaborn
+  ```
+* Folium
+  ```sh
+  pip install folium
+  ```
+* Scipy
+  ```sh
+  python -m pip install scipy
+  ```
+* lightgbm
+  ```sh
+  pip install lightgbm
+  ```
+  
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
