@@ -68,11 +68,13 @@ Some of the questions we want to answer are:
 The Data used can be gotten from [kaggle](https://www.kaggle.com/datasets/airbnb/seattle) 
 It contains 3 csv files of CALENDAR, LISTINGS, REVIEWS
 
+
 ### Prerequisites
 
-Python3, Jupyter Notebook
+[Python3](https://www.python.org/downloads/), [Jupyter Notebook](https://jupyter.org/)
 
 Install and Import the necessary libraries
+
 
 ### Python Libraries used :
 
@@ -178,7 +180,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- File Description -->
+<!-- FILE DESCRIPTION -->
 ### File Description
 
 - ReadMe
