@@ -13,7 +13,7 @@ Some of the questions we want to answer are:
 
 `OmoyeniO`, `Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-`, `Yenidipe`, `Omoyeni Ogundipe`, `yenidipe@icloud.com`, `Analysin Seattle Airbnb Data`, `Udacity Data Science Project`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
