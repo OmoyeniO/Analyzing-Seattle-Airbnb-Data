@@ -52,14 +52,15 @@ Install and Import the necessary libraries
 
 #### Python Libraries used :
 
-* Numpy
-* Pandas
-* Scikit-Learn
-* Matplotlib
-* Seaborn
+* [NumPy](http://www.numpy.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [Scikit-learn](http://scikit-learn.org/stable/)
+* [Matplotlib](http://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
 * Folium
-* Scipy
+* [SciPy](https://www.scipy.org/)
 * lightgbm
+* [![numpy][numpy]][numpy-url]
 
 
 ### Installation
@@ -157,4 +158,7 @@ Don't forget to give the project a star! Thanks again!
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/omoyeni-ogundipe 
 
+
+[numpy]: https://simpleicons.org/icons/numpy.svg
+[numpy-url]: http://www.numpy.org/
   
