@@ -57,9 +57,13 @@ Install and Import the necessary libraries
 * [Scikit-learn](http://scikit-learn.org/stable/)
 * [Matplotlib](http://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
-* Folium
+* [Folium](https://pypi.org/project/folium/)
 * [SciPy](https://www.scipy.org/)
-* lightgbm
+* [lightgbm](https://lightgbm.readthedocs.io/en/v3.3.2/)
+
+
+
+
 * [![numpy][numpy]][numpy-url]
 
 
