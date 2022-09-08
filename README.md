@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <a href="https://github.com/OmoyeniO/Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project--Template">
-    <img src="https://mohamedirfansh.github.io/Airbnb-Data-Science-Project/images/seattle.jpg" alt="Logo" width="900" height="400">
+    <img src="https://mohamedirfansh.github.io/Airbnb-Data-Science-Project/images/seattle.jpg" alt="Logo" width="800" height="300">
   </a>
   
 
@@ -166,9 +166,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Kaggle
-* Udacity
-* Airbnb
+* [Airbnb image](https://mohamedirfansh.github.io/Airbnb-Data-Science-Project/images/seattle.jpg)
+* Udacity for the Data Science Program
+* Airbnb and kaggle for the open data
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
