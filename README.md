@@ -110,9 +110,13 @@ Eventually, we were able to derive valuable insights and draw conclusive answers
 We were sble to determine the busiest time of the year to be January, and we saw a trend of how bookings and prices decrease simultaneously  during the year in Seattle. 
 Also, we weren't able to establish a correlation between Price and cancelation policies.
 
-READ MORE ON: https://omoyeni-ogundipe.medium.com/what-data-tells-you-about-airbnb-business-in-seattle-5c403ebb9d15
 
 <p align="right">(<a href="#README-top">back to top</a>)</p>
+
+
+## Blog
+
+READ MORE ON: [WHAT DATA TELLS YOU ABOUT AIRBNB BUSINESS IN SEATTLE] (https://omoyeni-ogundipe.medium.com/what-data-tells-you-about-airbnb-business-in-seattle-5c403ebb9d15)
 
 
 <!-- CONTRIBUTING -->
