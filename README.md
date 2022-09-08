@@ -163,4 +163,11 @@ Don't forget to give the project a star! Thanks again!
 [contributors-url]: https://github.com/OmoyeniO/Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/OmoyeniO/Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/OmoyeniO/Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/omoyeni-ogundipe 
+
   
