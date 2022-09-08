@@ -36,4 +36,4 @@ Install and Import the necessary libraries
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 
-[Numpy.org]:file:///Users/omoyeniogundipe/Downloads/numpy.svg
+[Numpy.org]:https://img.shields.io/badge/NumPy-#013243?style=for-the-badge&logo=jquery&logoColor=white
