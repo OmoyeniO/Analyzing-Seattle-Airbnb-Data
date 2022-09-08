@@ -82,7 +82,7 @@ Eventually, we were able to derive valuable insights and draw conclusive answers
 We were sble to determine the busiest time of the year to be January, and we saw a trend of how bookings and prices decrease simultaneously  during the year in Seattle. 
 Also, we weren't able to establish a correlation between Price and cancelation policies.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#README-top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
