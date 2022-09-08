@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <a href="https://github.com/OmoyeniO/Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project--Template">
-    <img src="https://mohamedirfansh.github.io/Airbnb-Data-Science-Project/images/seattle.jpg" alt="Logo" width="750" height="400">
+    <img src="https://mohamedirfansh.github.io/Airbnb-Data-Science-Project/images/seattle.jpg" alt="Logo" width="900" height="400">
   </a>
   
 
