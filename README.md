@@ -13,6 +13,18 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/OmoyeniO/Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project--Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+  
+https://mohamedirfansh.github.io/Airbnb-Data-Science-Project/images/seattle.jpg
+
+
+
+
 
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents
