@@ -58,7 +58,7 @@ Some of the questions we want to answer are:
 3. Which listing features influence price? (Build a predictive pricing model)
 4. Does cancellatation policies have an effect on booking ?
 
-`OmoyeniO`, `Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-`, `Yenidipe`, `Omoyeni Ogundipe`, `yenidipe@icloud.com`, `Analysin Seattle Airbnb Data`, `Udacity Data Science Project`
+`Omoyeni Ogundipe`, `Analysing Seattle Airbnb Data`, `Udacity Data Science Project`
 
 
 
@@ -122,9 +122,11 @@ Install and Import the necessary libraries
   
 
 
+
 ## Project Motivation
 
 This project was done as part of the Udacity Data Science Nanodegree program to challenge my data science skills by using data to gain insights, find trends and answer questions.
+
 
 
 
@@ -137,6 +139,7 @@ Also, we weren't able to establish a correlation between Price and cancelation p
 
 
 <p align="right">(<a href="#README-top">back to top</a>)</p>
+
 
 
 <!-- BLOG -->
