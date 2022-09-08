@@ -14,6 +14,15 @@
 
 
 
+<!-- TABLE OF CONTENTS -->
+### Table of Contents
+
+1. [About The Project](#About The Project)
+2. [Project Motivation](#Project-Motivation)
+3. [Data](#Data)
+4. [File Descriptions](#File-Descriptions)
+5. [Result](#Result)
+6. [Blog](#Blog)
 
 
 
@@ -41,7 +50,7 @@ Some of the questions we want to answer are:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The Data used can be gotten from kaggle https://www.kaggle.com/datasets/airbnb/seattle  
+The Data used can be gotten from [kaggle](https://www.kaggle.com/datasets/airbnb/seattle) 
 It contains 3 csv files of CALENDAR, LISTINGS, REVIEWS
 
 ### Prerequisites
