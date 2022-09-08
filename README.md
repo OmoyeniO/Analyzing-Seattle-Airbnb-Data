@@ -11,7 +11,7 @@ Some of the questions we want to answer are:
 3. Which listing features influence price? (Build a predictive pricing model)
 4. Does cancellatation policies have an effect on booking ?
 
-`OmoyeniO`, `Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-`, `yenidipe`, `Omoyeni Ogundipe`, `email_client`, `yenidipe@icloud.com`, `Analysin Seattle Airbnb Data`, `Udacity Data Science Project`
+`OmoyeniO`, `Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-`, `Yenidipe`, `Omoyeni Ogundipe`, `yenidipe@icloud.com`, `Analysin Seattle Airbnb Data`, `Udacity Data Science Project`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -27,7 +27,7 @@ Python3, Jupyter Notebook
 
 Install and Import the necessary libraries
 
-### Python Libraries used :
+#### Python Libraries used :
 
 * Numpy
 * Pandas
@@ -72,8 +72,17 @@ Install and Import the necessary libraries
   
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Motivation
+This project was done as part of the Udacity Data Science Nanodegree program to challenge my data science skills by using data to gain insights, find trends and answer questions.
 
 
+## Summary of Results
+Eventually, we were able to derive valuable insights and draw conclusive answers to some questions.
+
+We were sble to determine the busiest time of the year to be January, and we saw a trend of how bookings and prices decrease simultaneously  during the year in Seattle. 
+Also, we weren't able to establish a correlation between Price and cancelation policies.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -97,8 +106,15 @@ Don't forget to give the project a star! Thanks again!
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Kaggle
+* Udacity
+* Airbnb
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### File Description
+- ReadMe
+- Seattle : Contains the 3 csv files used for this project
+- UdacityProj1.ipynb : Jupyter notebook file
