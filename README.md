@@ -50,7 +50,7 @@ Python3, Jupyter Notebook
 
 Install and Import the necessary libraries
 
-#### Python Libraries used :
+### Python Libraries used :
 
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
@@ -99,12 +99,17 @@ Install and Import the necessary libraries
   ```
   
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  
+
 
 ## Motivation
+
 This project was done as part of the Udacity Data Science Nanodegree program to challenge my data science skills by using data to gain insights, find trends and answer questions.
 
 
+
 ## Summary of Results
+
 Eventually, we were able to derive valuable insights and draw conclusive answers to some questions.
 
 We were sble to determine the busiest time of the year to be January, and we saw a trend of how bookings and prices decrease simultaneously  during the year in Seattle. 
@@ -112,6 +117,7 @@ Also, we weren't able to establish a correlation between Price and cancelation p
 
 
 <p align="right">(<a href="#README-top">back to top</a>)</p>
+
 
 
 ## Blog
@@ -149,6 +155,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 ### File Description
+
 - ReadMe
 - Seattle : Contains the 3 csv files used for this project
 - UdacityProj1.ipynb : Jupyter notebook file
