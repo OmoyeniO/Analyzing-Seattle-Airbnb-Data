@@ -1,9 +1,3 @@
-<!-- PROJECT SHIELDS -->
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 # Analyzing Seattle Airbnb Data
 
 <!-- ABOUT THE PROJECT -->
@@ -48,7 +42,9 @@ Install and Import the necessary libraries
 ### Installation
 
 * pandas
-  ```pip install pandas
+  ```sh
+  pip install pandas
+  ```
 
 
 
