@@ -32,8 +32,8 @@ Install and Import the necessary libraries
 
 ### Python Libraries used :
 
-* [![Numpy][Numpy.org]][https://numpy.org/]
+* [![Numpy][Numpy.org]][Numpy.org]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 
-
+[Numpy.org]:https://github.com/numpy/numpy/tree/main/branding/logo/logomark
