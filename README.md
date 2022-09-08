@@ -17,12 +17,17 @@
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents
 
-1. [About The Project](#About The Project)
-2. [Project Motivation](#Project-Motivation)
-3. [Data](#Data)
-4. [File Descriptions](#File-Descriptions)
-5. [Result](#Result)
-6. [Blog](#Blog)
+1. [About The Project](#About-The-Project)
+2. [Getting Started](#Getting-Started)
+3. [Prerequisites](#Prerequisites)
+4. [Python Libraries used](#Python-Libraries-used)
+5. [Installation](#Installation)
+6. [Project Motivation](#Project-Motivation)
+7. [Summary of Results](#Summary-of-Results)
+8. [Blog](#Blog)
+9. [Contributing](#Contributing)
+10. [Acknowledgments](#Acknowledgments)
+11. [File Description](#File-Description)
 
 
 
@@ -107,7 +112,7 @@ Install and Import the necessary libraries
   
 
 
-## Motivation
+## Project Motivation
 
 This project was done as part of the Udacity Data Science Nanodegree program to challenge my data science skills by using data to gain insights, find trends and answer questions.
 
@@ -124,7 +129,7 @@ Also, we weren't able to establish a correlation between Price and cancelation p
 <p align="right">(<a href="#README-top">back to top</a>)</p>
 
 
-
+<!-- BLOG -->
 ## Blog
 
 READ MORE ON: [WHAT DATA TELLS YOU ABOUT AIRBNB BUSINESS IN SEATTLE](https://omoyeni-ogundipe.medium.com/what-data-tells-you-about-airbnb-business-in-seattle-5c403ebb9d15)
@@ -159,11 +164,14 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- File Description -->
 ### File Description
 
 - ReadMe
 - Seattle : Contains the 3 csv files used for this project
 - UdacityProj1.ipynb : Jupyter notebook file
+  
+  
   
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
