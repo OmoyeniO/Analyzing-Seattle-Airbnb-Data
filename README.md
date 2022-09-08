@@ -63,10 +63,6 @@ Install and Import the necessary libraries
 
 
 
-
-* [![numpy][numpy]][numpy-url]
-
-
 ### Installation
 
 * pandas
@@ -162,7 +158,7 @@ Don't forget to give the project a star! Thanks again!
   
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/OmoyeniO/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/OmoyeniO/Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-.svg?style=for-the-badge
 [contributors-url]: https://github.com/OmoyeniO/Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/OmoyeniO/Analyzing-Seattle-Airbnb-Data-Udacity-Data-Science-Project-/network/members
@@ -174,6 +170,4 @@ Don't forget to give the project a star! Thanks again!
 [linkedin-url]: https://www.linkedin.com/in/omoyeni-ogundipe 
 
 
-[numpy]: https://simpleicons.org/icons/numpy.svg
-[numpy-url]: http://www.numpy.org/
-  
+
