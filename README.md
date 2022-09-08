@@ -32,8 +32,7 @@ Install and Import the necessary libraries
 
 ### Python Libraries used :
 
-* [![Numpy][Numpy.org]][Numpy.org]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+* [![Numpy][Numpy.org][https://numpy.org]
+* [![Pandas][https://pandas.pydata.org/]
+* [![Scikit-learn][https://scikit-learn.org/stable/]
 
-[Numpy.org]:https://img.shields.io/badge/NumPy-#013243?style=for-the-badge&logo=jquery&logoColor=white
