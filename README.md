@@ -36,4 +36,4 @@ Install and Import the necessary libraries
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 
-[Numpy.org]:https://github.com/numpy/numpy/tree/main/branding/logo/logomark
+[Numpy.org]:file:///Users/omoyeniogundipe/Downloads/numpy.svg
