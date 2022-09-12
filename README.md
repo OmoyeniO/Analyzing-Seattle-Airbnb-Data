@@ -101,7 +101,7 @@ Install and Import the necessary libraries
   ```
 * Matplotlib
   ```sh
-  python -m pip install -U matplotlib
+  pip install -U matplotlib
   ```
 * Seaborn
   ```sh
@@ -113,7 +113,7 @@ Install and Import the necessary libraries
   ```
 * Scipy
   ```sh
-  python -m pip install scipy
+  pip install scipy
   ```
 * lightgbm
   ```sh
