@@ -136,7 +136,7 @@ This project was done as part of the Udacity Data Science Nanodegree program to 
 
 Eventually, we were able to derive valuable insights and draw conclusive answers to some questions.
 
-We were sble to determine the busiest time of the year to be January, and we saw a trend of how bookings and prices decrease simultaneously  during the year in Seattle. 
+We were able to determine the busiest time of the year to be January, and we saw a trend of how bookings and prices decrease simultaneously  during the year in Seattle. 
 Also, we weren't able to establish a correlation between Price and cancelation policies.
 
 
